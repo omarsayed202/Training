@@ -12,7 +12,7 @@ public class Welcome {
     @ResponseBody
     public String welcome()
     {
-        return "Welcome";
+        return "Welcome to my Git";
     }
 
 
